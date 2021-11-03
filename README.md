@@ -9,23 +9,22 @@
 
 ### 🛠 Languages and Tools:
 
-<img title="Visual Studio Code"  style="margin-right: 8px;" alt="Visual Studio Code" width="50" src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"/>
+<img align="left" title="Visual Studio Code"  style="margin-right: 8px;" alt="Visual Studio Code" width="50" src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"/>
 
-<img title="HTML 5" style="margin-right: 8px;" alt="HTML 5"  width="50" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
+<img align="left" title="HTML 5" style="margin-right: 8px;" alt="HTML 5"  width="50" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
 
-<img title="CSS 3" style="margin-right: 8px;" alt="CSS 3"  width="50" src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+<img align="left" title="CSS 3" style="margin-right: 8px;" alt="CSS 3"  width="50" src="https://img.icons8.com/dusk/64/000000/css3.png"/>
 
-<img title="Git" style="margin-right: 8px;" alt="Git" width="50" src="https://img.icons8.com/nolan/64/git.png"/>
+<img align="left" title="Git" style="margin-right: 8px;" alt="Git" width="50" src="https://img.icons8.com/nolan/64/git.png"/>
 
-<img title="Docker" style="margin-right: 8px;" alt="Docker"  width="50" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
+<img align="left" title="Docker" style="margin-right: 8px;" alt="Docker"  width="50" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
 
-<img title="PHP" style="margin-right: 8px;" alt="PHP" width="50" src="https://img.icons8.com/dusk/64/000000/php.png"/>
+<img align="left" title="PHP" style="margin-right: 8px;" alt="PHP" width="50" src="https://img.icons8.com/dusk/64/000000/php.png"/>
 
-<img title="Laravel" style="margin-right: 8px;" alt="Laravel" width="50" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+<img align="left" title="Laravel" style="margin-right: 8px;" alt="Laravel" width="50" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 
 <img title="Linux" style="margin-right: 8px;" alt="Linux" width="50" src="https://img.icons8.com/cute-clipart/64/000000/linux-client.png"/>
 
-<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tynguyen2k1&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/tynguyen2k1)
