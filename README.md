@@ -27,6 +27,9 @@
 
 <br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tynguyen2k1&show_icons=true&theme=tokyonight)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tynguyen2k1&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/tynguyen2k1)
 
 ### 🤝 Connect with me:
