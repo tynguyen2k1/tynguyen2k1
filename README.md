@@ -2,9 +2,9 @@
 
 ### ℹ️ About Me
 
-- 🎓 I'm currently a software engineering student at ...
+- 🎓 I'm currently a software engineering student at Ha Noi Polytechnic College
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Become a Full-Stack Developer
+- 🥅 2022 Goals: Become a Full-Stack Developer
 - ⚡ Fun fact: I love playing guitar ️🎸 and coding
 
 ### 🛠 Languages and Tools:
