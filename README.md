@@ -15,6 +15,8 @@
 
 <img align="left" title="CSS 3" style="margin-right: 2px;" alt="CSS 3"  width="50" src="https://img.icons8.com/dusk/64/000000/css3.png"/>
 
+<img align="left" title="Javscript" style="margin-right: 2px;" alt="CSS 3"  width="50" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
+
 <img align="left" title="Git" style="margin-right: 2px;" alt="Git" width="50" src="https://img.icons8.com/nolan/64/git.png"/>
 
 <img align="left" title="Docker" style="margin-right: 2px;" alt="Docker"  width="50" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
